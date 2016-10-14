@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  Adds the Pull Request name and link to the description of multibranch pipeline jobs.
+</div>
